@@ -24,6 +24,12 @@
         "doctrine/orm": "~2.2",
         "phpspec/phpspec": "~2.0"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/clementtalleu/Finite.git"
+        }
+    ],
     "config": {
         "bin-dir": "bin"
     },
